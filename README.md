@@ -10,14 +10,14 @@ Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu
 - 🔹 **Flask** kullanarak web tabanlı projeler oluşturma
 - 🔹 **OOP** (Nesne Tabanlı Programlama) prensipleriyle yazılım tasarımı
 - 🔹 **Discord.py** modülüyle bot geliştirme ve otomasyonlar
-- 🔗 Projelerime buradan ulaşabilirsin: [GitHub Profilim](https://www.github.com)
+- 🔗 Projelerime buradan ulaşabilirsin: [GitHub Profilim](https://www.github.com/berkayiskl)
 
 ---
 
 ## 🖼️ Kullandığım Bazı Teknolojiler
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Html](<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">)
 ![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
@@ -27,7 +27,7 @@ Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu
 Eğer projelerimle ilgileniyorsan ya da iletişime geçmek istersen:
 
 - 📧 E-posta: `ornekmail@gmail.com`  
-- 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com)  
+
 
 ---
 
