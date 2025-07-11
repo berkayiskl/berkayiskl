@@ -18,7 +18,6 @@ Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu
 
 🎬 Film öneri projem yayında!  
 👉 [Filmoneri Web Sitesini Ziyaret Et](https://berkayiskl.github.io/filmoneri/)
-📝 Yorumlarınız benim için çok önemli, site hakkındaki yorumlarınızı belirtmeniz bana çok yardım edecektir.
 
 ---
 
