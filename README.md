@@ -16,8 +16,11 @@ Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu
 
 ## 🖼️ Kullandığım Bazı Teknolojiler
 
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Html](<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">)
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+
 ![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
