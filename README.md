@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Kodlama Yolculuğum
 
-<!--
-**berkayiskl/berkayiskl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu yolculukta özellikle **Python** diliyle çalışıyor, çeşitli teknolojileri öğreniyor ve projeler geliştiriyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Teknolojiler & Tecrübelerim
+
+- 🔹 *Python* ile uygulama geliştirme
+- 🔹 **Flask** kullanarak web tabanlı projeler oluşturma
+- 🔹 **OOP** (Nesne Tabanlı Programlama) prensipleriyle yazılım tasarımı
+- 🔹 **Discord.py** modülüyle bot geliştirme ve otomasyonlar
+- 🔗 Projelerime buradan ulaşabilirsin: [GitHub Profilim](https://www.github.com)
+
+---
+
+## 🖼️ Kullandığım Bazı Teknolojiler
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📫 Bana Ulaş
+
+Eğer projelerimle ilgileniyorsan ya da iletişime geçmek istersen:
+
+- 📧 E-posta: `ornekmail@gmail.com`  
+- 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com)  
+
+---
+
+> Bu README, Markdown öğrenme sürecinde hazırlandı.  
+> İlham ve katkılarınız için teşekkürler! 🙏
