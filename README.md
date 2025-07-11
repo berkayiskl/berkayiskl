@@ -22,13 +22,7 @@ Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
----
 
-## 📫 Bana Ulaş
-
-Eğer projelerimle ilgileniyorsan ya da iletişime geçmek istersen:
-
-- 📧 E-posta: `ornekmail@gmail.com`  
 
 
 ---
