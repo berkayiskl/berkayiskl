@@ -1,4 +1,4 @@
-# 👨‍💻 Kodlama Yolculuğum
+# 😺 Merhaba, Ben Berkay
 
 Merhaba! Ben yazılım geliştirme serüveninde yol alan bir geliştiriciyim. Bu yolculukta özellikle **Python** diliyle çalışıyor, çeşitli teknolojileri öğreniyor ve projeler geliştiriyorum.  
 
